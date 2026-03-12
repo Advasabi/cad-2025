@@ -1,0 +1,16 @@
+com\example\autoservice\TestController.class
+com\example\autoservice\controller\LoginController.class
+com\example\autoservice\repository\jpa\OrderRepository.class
+com\example\autoservice\controller\ModeratorApiController.class
+com\example\autoservice\service\OrderService.class
+com\example\autoservice\model\User.class
+com\example\autoservice\AutoserviceApplication.class
+com\example\autoservice\service\CustomUserDetailsService.class
+com\example\autoservice\config\SecurityConfig.class
+com\example\autoservice\controller\ClientController.class
+com\example\autoservice\repository\jpa\UserRepository.class
+com\example\autoservice\model\Order.class
+com\example\autoservice\controller\MasterApiController.class
+com\example\autoservice\controller\MasterController.class
+com\example\autoservice\controller\ModeratorController.class
+com\example\autoservice\controller\ClientApiController.class
